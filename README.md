@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA, Python Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gnanashekar-s](https://github.com/gnanashekar-s/repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/gnanashekar-s](https://github.com/gnanashekar-s?tab=repositories)
 
 - 📫 How to reach me **sshekar7214@gmail.com**
 
