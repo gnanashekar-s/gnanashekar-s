@@ -17,7 +17,7 @@
 <a href="https://twitter.com/gnanashekar7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gnanashekar7214" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gnanashekar7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gnanashekar7214" height="30" width="40" /></a>
 <a href="https://kaggle.com/gnanashekars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gnanashekars" height="30" width="40" /></a>
-<a href="https://instagram.com/shekar7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shekar7214" height="30" width="40" /></a>
+<a href="https://instagram.com/shekar_7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shekar7214" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gnanashekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gnanashekar" height="30" width="40" /></a>
 </p>
 
