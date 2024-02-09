@@ -21,7 +21,7 @@
 <a href="https://www.leetcode.com/gnanashekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gnanashekar" height="30" width="40" /></a>
 
 # 📊 GitHub Stats:
-!tps://github-readme-streak-stats.herokuapp.com/?user=bhuvaneshw&theme=default&hide_border=false)<br/>
+!tps://github-readme-streak-stats.herokuapp.com/?user=gnanashekar-s&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshw&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
