@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gnanashekar</h1>
 <h3 align="center">A passionate Computer Science student from India</h3>
 
-- 🔭 I’m currently working on [Uni_Market](https://github.com/gnanashekar-s/bit-linkedin-portal)
+- 🔭 I’m currently working on [Bit_linkedin_Portal](https://github.com/gnanashekar-s/bit-linkedin-portal)
 
 - 🌱 I’m currently learning **DSA, Python Frameworks**
 
